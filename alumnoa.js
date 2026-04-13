@@ -24,9 +24,9 @@ async function obtenerrecursosexternos() {
   return new Promise((resolve) => {
     setTimeout(() => {
       const inventario = [
-        new producto("celulas de hidrogeno", "combustible", 45),
-        new producto("raciones de emergencia", "comida", 150),
-        new producto("combustible de plasma", "combustible", 20),
+        new producto("ESCROTOlamo", "combustible", 45),
+        new producto("Criptonita", "comida", 150),
+        new producto("Adamantiun", "combustible", 20),
         new producto("algas nutritivas", "comida", 80)
       ];
       
