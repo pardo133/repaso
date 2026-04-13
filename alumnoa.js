@@ -1,3 +1,7 @@
+
+
+export { producto, obtenerrecursosexternos };
+
 /**
  * clase producto
  * definida en minúsculas para evitar errores de referencia
@@ -33,4 +37,4 @@ async function obtenerrecursosexternos() {
 }
 
 // exportamos los elementos para que el alumno b pueda usarlos
-export { producto, obtenerrecursosexternos };
+
